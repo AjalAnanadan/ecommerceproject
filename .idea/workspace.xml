@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3340ffd-279f-4735-b6a6-17228eff372e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ecommerceproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecommerceproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a3340ffd-279f-4735-b6a6-17228eff372e" name="Changes" comment="adding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674456105635</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding">
+      <created>1680085309629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680085309629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding" />
   </component>
 </project>
